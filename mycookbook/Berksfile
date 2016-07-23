@@ -1,0 +1,8 @@
+source 'https://supermarket.chef.io'
+
+cookbook 'apt'
+cookbook 'mongodb'
+cookbook 'build-essential'
+cookbook 'nodejs'
+
+metadata
